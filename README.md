@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.12](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.12), today) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.13](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.13), today) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([kubernetes-etcd-backup-1.5.1](https://github.com/adfinis/helm-charts/releases/tag/kubernetes-etcd-backup-1.5.1), today) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 5 months ago) - Ansible role repo_mirror
 - [getindata/terraform-azurerm-atlantis](https://github.com/getindata/terraform-azurerm-atlantis) ([v4.2.2](https://github.com/getindata/terraform-azurerm-atlantis/releases/tag/v4.2.2), 1 year ago) - Terraform module for deploying Atlantis in Azure Container Group
