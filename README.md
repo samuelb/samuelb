@@ -10,8 +10,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.13](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.13), today) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([kubernetes-etcd-backup-1.5.1](https://github.com/adfinis/helm-charts/releases/tag/kubernetes-etcd-backup-1.5.1), today) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.13](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.13), 1 day ago) - A Helm chart for NetBox
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([kubernetes-etcd-backup-1.5.1](https://github.com/adfinis/helm-charts/releases/tag/kubernetes-etcd-backup-1.5.1), 1 day ago) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 5 months ago) - Ansible role repo_mirror
 - [getindata/terraform-azurerm-atlantis](https://github.com/getindata/terraform-azurerm-atlantis) ([v4.2.2](https://github.com/getindata/terraform-azurerm-atlantis/releases/tag/v4.2.2), 1 year ago) - Terraform module for deploying Atlantis in Azure Container Group
 
@@ -28,5 +28,5 @@
 - [chore(hedgedoc): Bump hedgedoc version to 1.10.0](https://github.com/adfinis/helm-charts/pull/1313) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (4 months ago)
 - [Fix wrong comment for `redis.enabled`](https://github.com/netbox-community/netbox-chart/pull/336) on [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) (4 months ago)
 - [Correct redis version used in 5.x release in README.md](https://github.com/netbox-community/netbox-chart/pull/319) on [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) (4 months ago)
-- [fix: missing role dependency](https://github.com/adfinis/ansible-role-repo_mirror/pull/49) on [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) (5 months ago)
+- [fix: missing role dependency](https://github.com/adfinis/ansible-role-repo_mirror/pull/49) on [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) (6 months ago)
 - [feat: Allow disabling overwriting motd/issue](https://github.com/adfinis/ansible-role-motd/pull/6) on [adfinis/ansible-role-motd](https://github.com/adfinis/ansible-role-motd) (6 months ago)
