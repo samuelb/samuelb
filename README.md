@@ -4,15 +4,15 @@
 
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (4 months ago)
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) - A Helm chart for NetBox (4 months ago)
-- [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) - Ansible role repo_mirror (5 months ago)
-- [adfinis/ansible-role-motd](https://github.com/adfinis/ansible-role-motd) - Ansible role motd (5 months ago)
+- [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) - Ansible role repo_mirror (6 months ago)
+- [adfinis/ansible-role-motd](https://github.com/adfinis/ansible-role-motd) - Ansible role motd (6 months ago)
 - [getindata/terraform-azurerm-atlantis](https://github.com/getindata/terraform-azurerm-atlantis) - Terraform module for deploying Atlantis in Azure Container Group (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.13](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.13), 1 day ago) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([kubernetes-etcd-backup-1.5.1](https://github.com/adfinis/helm-charts/releases/tag/kubernetes-etcd-backup-1.5.1), 1 day ago) - 📈 Helm charts from Adfinis
-- [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 5 months ago) - Ansible role repo_mirror
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.13](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.13), 2 days ago) - A Helm chart for NetBox
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([kubernetes-etcd-backup-1.5.1](https://github.com/adfinis/helm-charts/releases/tag/kubernetes-etcd-backup-1.5.1), 2 days ago) - 📈 Helm charts from Adfinis
+- [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 6 months ago) - Ansible role repo_mirror
 
 #### 🌱 My latest projects
 
