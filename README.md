@@ -10,8 +10,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.13](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.13), today) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([storage-apps-0.17.0](https://github.com/adfinis/helm-charts/releases/tag/storage-apps-0.17.0), today) - 📈 Helm charts from Adfinis
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.13](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.13), 3 days ago) - A Helm chart for NetBox
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 6 months ago) - Ansible role repo_mirror
 
 #### 🌱 My latest projects
