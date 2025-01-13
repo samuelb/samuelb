@@ -6,7 +6,6 @@
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) - A Helm chart for NetBox (4 months ago)
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) - Ansible role repo_mirror (6 months ago)
 - [adfinis/ansible-role-motd](https://github.com/adfinis/ansible-role-motd) - Ansible role motd (6 months ago)
-- [getindata/terraform-azurerm-atlantis](https://github.com/getindata/terraform-azurerm-atlantis) - Terraform module for deploying Atlantis in Azure Container Group (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
