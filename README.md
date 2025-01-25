@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [reaktor23/website](https://github.com/reaktor23/website) - Reaktor23 website (1 day ago)
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (4 months ago)
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) - A Helm chart for NetBox (4 months ago)
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) - Ansible role repo_mirror (6 months ago)
@@ -9,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.25](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.25), today) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.25](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.25), 1 day ago) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([argo-apps-0.26.0](https://github.com/adfinis/helm-charts/releases/tag/argo-apps-0.26.0), 1 week ago) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 6 months ago) - Ansible role repo_mirror
 
