@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [reaktor23/website](https://github.com/reaktor23/website) - Reaktor23 website (1 day ago)
+- [reaktor23/website](https://github.com/reaktor23/website) - Reaktor23 website (2 days ago)
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (4 months ago)
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) - A Helm chart for NetBox (4 months ago)
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) - Ansible role repo_mirror (6 months ago)
@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.25](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.25), 1 day ago) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.25](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.25), 2 days ago) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([argo-apps-0.26.0](https://github.com/adfinis/helm-charts/releases/tag/argo-apps-0.26.0), 1 week ago) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 6 months ago) - Ansible role repo_mirror
 
@@ -26,6 +26,6 @@
 
 - [chore(hedgedoc): Bump hedgedoc version to 1.10.0](https://github.com/adfinis/helm-charts/pull/1313) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (4 months ago)
 - [Fix wrong comment for `redis.enabled`](https://github.com/netbox-community/netbox-chart/pull/336) on [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) (4 months ago)
-- [Correct redis version used in 5.x release in README.md](https://github.com/netbox-community/netbox-chart/pull/319) on [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) (4 months ago)
+- [Correct redis version used in 5.x release in README.md](https://github.com/netbox-community/netbox-chart/pull/319) on [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) (5 months ago)
 - [fix: missing role dependency](https://github.com/adfinis/ansible-role-repo_mirror/pull/49) on [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) (6 months ago)
 - [feat: Allow disabling overwriting motd/issue](https://github.com/adfinis/ansible-role-motd/pull/6) on [adfinis/ansible-role-motd](https://github.com/adfinis/ansible-role-motd) (6 months ago)
