@@ -10,8 +10,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([kubernetes-etcd-backup-1.6.0](https://github.com/adfinis/helm-charts/releases/tag/kubernetes-etcd-backup-1.6.0), 4 days ago) - 📈 Helm charts from Adfinis
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.25](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.25), 1 week ago) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.26](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.26), 1 day ago) - A Helm chart for NetBox
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([kubernetes-etcd-backup-1.6.0](https://github.com/adfinis/helm-charts/releases/tag/kubernetes-etcd-backup-1.6.0), 5 days ago) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 6 months ago) - Ansible role repo_mirror
 
 #### 🌱 My latest projects
