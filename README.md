@@ -10,9 +10,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.2](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.2), 4 days ago) - A Helm chart for NetBox
-- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.15.6](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.15.6), 4 days ago) - A collection of Ansible roles to manage Bareos installations.
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([azure-apps-0.15.0](https://github.com/adfinis/helm-charts/releases/tag/azure-apps-0.15.0), 6 days ago) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.39](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.39), 1 day ago) - A Helm chart for NetBox
+- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.16.0](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.16.0), 1 day ago) - A collection of Ansible roles to manage Bareos installations.
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([azure-apps-0.15.0](https://github.com/adfinis/helm-charts/releases/tag/azure-apps-0.15.0), 1 week ago) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 7 months ago) - Ansible role repo_mirror
 
 #### 🌱 My latest projects
