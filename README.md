@@ -4,14 +4,14 @@
 
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) - A collection of Ansible roles to manage Bareos installations. (1 week ago)
 - [samuelb/semaphore-test](https://github.com/samuelb/semaphore-test) -  (1 week ago)
-- [samuelb/opencore-efi](https://github.com/samuelb/opencore-efi) - OpenCore EFI for my AMD Ryzen system (3 weeks ago)
+- [samuelb/opencore-efi](https://github.com/samuelb/opencore-efi) - OpenCore EFI for my AMD Ryzen system (4 weeks ago)
 - [reaktor23/website](https://github.com/reaktor23/website) - Reaktor23 website (1 month ago)
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.39](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.39), 1 day ago) - A Helm chart for NetBox
-- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.16.0](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.16.0), 1 day ago) - A collection of Ansible roles to manage Bareos installations.
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.6](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.6), today) - A Helm chart for NetBox
+- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.16.0](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.16.0), 2 days ago) - A collection of Ansible roles to manage Bareos installations.
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([azure-apps-0.15.0](https://github.com/adfinis/helm-charts/releases/tag/azure-apps-0.15.0), 1 week ago) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 7 months ago) - Ansible role repo_mirror
 
@@ -25,8 +25,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix: bareos-fd python plugins couldn&#39;t find pg8000 dependency](https://github.com/adfinis/ansible-collection-bareos/pull/54) on [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) (1 day ago)
 - [fix(playbooks): plugin_postgresql ensure pip installed before installing pg8000 lib](https://github.com/adfinis/ansible-collection-bareos/pull/50) on [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) (1 week ago)
 - [chore(hedgedoc): Bump hedgedoc version to 1.10.0](https://github.com/adfinis/helm-charts/pull/1313) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (5 months ago)
 - [Fix wrong comment for `redis.enabled`](https://github.com/netbox-community/netbox-chart/pull/336) on [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) (5 months ago)
 - [Correct redis version used in 5.x release in README.md](https://github.com/netbox-community/netbox-chart/pull/319) on [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) (6 months ago)
-- [fix: missing role dependency](https://github.com/adfinis/ansible-role-repo_mirror/pull/49) on [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) (7 months ago)
