@@ -10,8 +10,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.11](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.11), 3 days ago) - A Helm chart for NetBox
-- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.16.2](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.16.2), 3 days ago) - A collection of Ansible roles to manage Bareos installations.
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.11](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.11), 4 days ago) - A Helm chart for NetBox
+- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.16.2](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.16.2), 4 days ago) - A collection of Ansible roles to manage Bareos installations.
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.91.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.91.0), 1 week ago) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 8 months ago) - Ansible role repo_mirror
 
@@ -26,7 +26,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Fix: bareos-fd python plugins couldn&#39;t find pg8000 dependency](https://github.com/adfinis/ansible-collection-bareos/pull/54) on [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) (1 week ago)
-- [fix(playbooks): plugin_postgresql ensure pip installed before installing pg8000 lib](https://github.com/adfinis/ansible-collection-bareos/pull/50) on [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) (2 weeks ago)
+- [fix(playbooks): plugin_postgresql ensure pip installed before installing pg8000 lib](https://github.com/adfinis/ansible-collection-bareos/pull/50) on [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) (3 weeks ago)
 - [chore(hedgedoc): Bump hedgedoc version to 1.10.0](https://github.com/adfinis/helm-charts/pull/1313) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (6 months ago)
 - [Fix wrong comment for `redis.enabled`](https://github.com/netbox-community/netbox-chart/pull/336) on [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) (6 months ago)
 - [Correct redis version used in 5.x release in README.md](https://github.com/netbox-community/netbox-chart/pull/319) on [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) (6 months ago)
