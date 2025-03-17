@@ -10,8 +10,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.11](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.11), 6 days ago) - A Helm chart for NetBox
-- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.16.2](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.16.2), 6 days ago) - A collection of Ansible roles to manage Bareos installations.
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.11](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.11), 1 week ago) - A Helm chart for NetBox
+- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.16.2](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.16.2), 1 week ago) - A collection of Ansible roles to manage Bareos installations.
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.91.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.91.0), 1 week ago) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 8 months ago) - Ansible role repo_mirror
 
