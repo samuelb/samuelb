@@ -10,8 +10,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.229.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.229.0), 1 day ago) - 📈 Helm charts from Adfinis
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.20](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.20), 2 days ago) - A Helm chart for NetBox
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.229.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.229.0), 2 days ago) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.20](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.20), 3 days ago) - A Helm chart for NetBox
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.16.2](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.16.2), 2 weeks ago) - A collection of Ansible roles to manage Bareos installations.
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 8 months ago) - Ansible role repo_mirror
 
@@ -29,4 +29,4 @@
 - [fix(playbooks): plugin_postgresql ensure pip installed before installing pg8000 lib](https://github.com/adfinis/ansible-collection-bareos/pull/50) on [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) (1 month ago)
 - [chore(hedgedoc): Bump hedgedoc version to 1.10.0](https://github.com/adfinis/helm-charts/pull/1313) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (6 months ago)
 - [Fix wrong comment for `redis.enabled`](https://github.com/netbox-community/netbox-chart/pull/336) on [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) (6 months ago)
-- [Correct redis version used in 5.x release in README.md](https://github.com/netbox-community/netbox-chart/pull/319) on [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) (6 months ago)
+- [Correct redis version used in 5.x release in README.md](https://github.com/netbox-community/netbox-chart/pull/319) on [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) (7 months ago)
