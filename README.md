@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.25](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.25), 3 days ago) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.25](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.25), 4 days ago) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.231.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.231.0), 1 week ago) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.17.2](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.17.2), 1 week ago) - A collection of Ansible roles to manage Bareos installations.
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 9 months ago) - Ansible role repo_mirror
@@ -25,7 +25,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore(hedgdoc): Bump hedgdoc from 1.10.0 to 1.10.2](https://github.com/adfinis/helm-charts/pull/1381) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (1 week ago)
+- [chore(hedgdoc): Bump hedgdoc from 1.10.0 to 1.10.2](https://github.com/adfinis/helm-charts/pull/1381) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (2 weeks ago)
 - [Fix: bareos-fd python plugins couldn&#39;t find pg8000 dependency](https://github.com/adfinis/ansible-collection-bareos/pull/54) on [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) (1 month ago)
 - [fix(playbooks): plugin_postgresql ensure pip installed before installing pg8000 lib](https://github.com/adfinis/ansible-collection-bareos/pull/50) on [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) (1 month ago)
 - [chore(hedgedoc): Bump hedgedoc version to 1.10.0](https://github.com/adfinis/helm-charts/pull/1313) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (7 months ago)
