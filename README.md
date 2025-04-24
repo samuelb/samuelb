@@ -6,12 +6,12 @@
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) - A collection of Ansible roles to manage Bareos installations. (1 month ago)
 - [samuelb/semaphore-test](https://github.com/samuelb/semaphore-test) -  (2 months ago)
 - [samuelb/opencore-efi](https://github.com/samuelb/opencore-efi) - OpenCore EFI for my AMD Ryzen system (2 months ago)
-- [reaktor23/website](https://github.com/reaktor23/website) - Reaktor23 website (2 months ago)
+- [reaktor23/website](https://github.com/reaktor23/website) - Reaktor23 website (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.29](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.29), 1 day ago) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.233.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.233.0), 6 days ago) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.68](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.68), 1 day ago) - A Helm chart for NetBox
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.234.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.234.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.17.2](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.17.2), 2 weeks ago) - A collection of Ansible roles to manage Bareos installations.
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 9 months ago) - Ansible role repo_mirror
 
