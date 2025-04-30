@@ -2,18 +2,18 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [samuelb/ssl-pubkey-fingerprint-exporter](https://github.com/samuelb/ssl-pubkey-fingerprint-exporter) - Prometheus exporter to monitor SSL certificates public key fingerprint. Useful when your applications do SSL public key pinning.  (2 days ago)
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (3 weeks ago)
+- [samuelb/ssl-pubkey-fingerprint-exporter](https://github.com/samuelb/ssl-pubkey-fingerprint-exporter) - Prometheus exporter to monitor SSL certificates public key fingerprint. Useful when your applications do SSL public key pinning.  (3 days ago)
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (4 weeks ago)
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) - A collection of Ansible roles to manage Bareos installations. (1 month ago)
 - [samuelb/semaphore-test](https://github.com/samuelb/semaphore-test) -  (2 months ago)
 - [samuelb/opencore-efi](https://github.com/samuelb/opencore-efi) - OpenCore EFI for my AMD Ryzen system (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.36](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.36), 1 day ago) - A Helm chart for NetBox
-- [samuelb/ssl-pubkey-fingerprint-exporter](https://github.com/samuelb/ssl-pubkey-fingerprint-exporter) ([v0.4.0](https://github.com/samuelb/ssl-pubkey-fingerprint-exporter/releases/tag/v0.4.0), 3 days ago) - Prometheus exporter to monitor SSL certificates public key fingerprint. Useful when your applications do SSL public key pinning. 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.5.0](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.5.0), 4 days ago) - 📈 Helm charts from Adfinis
-- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.17.4](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.17.4), 5 days ago) - A collection of Ansible roles to manage Bareos installations.
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.36](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.36), 2 days ago) - A Helm chart for NetBox
+- [samuelb/ssl-pubkey-fingerprint-exporter](https://github.com/samuelb/ssl-pubkey-fingerprint-exporter) ([v0.4.0](https://github.com/samuelb/ssl-pubkey-fingerprint-exporter/releases/tag/v0.4.0), 4 days ago) - Prometheus exporter to monitor SSL certificates public key fingerprint. Useful when your applications do SSL public key pinning. 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.5.0](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.5.0), 5 days ago) - 📈 Helm charts from Adfinis
+- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.17.4](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.17.4), 6 days ago) - A collection of Ansible roles to manage Bareos installations.
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 9 months ago) - Ansible role repo_mirror
 
 #### 🌱 My latest projects
