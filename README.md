@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) -  (2 days ago)
+- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) -  (3 days ago)
 - [samuelb/ssl-pubkey-fingerprint-exporter](https://github.com/samuelb/ssl-pubkey-fingerprint-exporter) - Prometheus exporter to monitor SSL certificates public key fingerprint. Useful when your applications do SSL public key pinning.  (2 weeks ago)
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (1 month ago)
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) - A collection of Ansible roles to manage Bareos installations. (2 months ago)
@@ -10,9 +10,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.6.6](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.6.6), 1 day ago) - A Helm chart for NetBox
-- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) ([v2.1.0](https://github.com/adfinis/ansible-role-bareos_dir/releases/tag/v2.1.0), 2 days ago) - 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.93.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.93.0), 3 days ago) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.6.6](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.6.6), 2 days ago) - A Helm chart for NetBox
+- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) ([v2.1.0](https://github.com/adfinis/ansible-role-bareos_dir/releases/tag/v2.1.0), 3 days ago) - 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.93.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.93.0), 4 days ago) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.18.0](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.18.0), 1 week ago) - A collection of Ansible roles to manage Bareos installations.
 - [samuelb/ssl-pubkey-fingerprint-exporter](https://github.com/samuelb/ssl-pubkey-fingerprint-exporter) ([v0.4.0](https://github.com/samuelb/ssl-pubkey-fingerprint-exporter/releases/tag/v0.4.0), 2 weeks ago) - Prometheus exporter to monitor SSL certificates public key fingerprint. Useful when your applications do SSL public key pinning. 
 
@@ -26,7 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Allow to configure directors heartbeat interval](https://github.com/adfinis/ansible-role-bareos_dir/pull/26) on [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) (6 days ago)
+- [feat: Allow to configure directors heartbeat interval](https://github.com/adfinis/ansible-role-bareos_dir/pull/26) on [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) (1 week ago)
 - [chore(hedgdoc): Bump hedgdoc from 1.10.0 to 1.10.2](https://github.com/adfinis/helm-charts/pull/1381) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (1 month ago)
 - [Fix: bareos-fd python plugins couldn&#39;t find pg8000 dependency](https://github.com/adfinis/ansible-collection-bareos/pull/54) on [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) (2 months ago)
 - [fix(playbooks): plugin_postgresql ensure pip installed before installing pg8000 lib](https://github.com/adfinis/ansible-collection-bareos/pull/50) on [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) (2 months ago)
