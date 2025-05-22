@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (1 day ago)
+- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (2 days ago)
 - [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) -  (1 week ago)
 - [samuelb/ssl-pubkey-fingerprint-exporter](https://github.com/samuelb/ssl-pubkey-fingerprint-exporter) - Prometheus exporter to monitor SSL certificates public key fingerprint. Useful when your applications do SSL public key pinning.  (3 weeks ago)
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (1 month ago)
@@ -10,9 +10,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.5](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.5), 1 day ago) - 📈 Helm charts from Adfinis
-- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.3.5](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.3.5), 1 day ago) - 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.17](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.17), 1 day ago) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.18](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.18), 1 day ago) - A Helm chart for NetBox
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.5](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.5), 2 days ago) - 📈 Helm charts from Adfinis
+- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.3.5](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.3.5), 2 days ago) - 
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.18.1](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.18.1), 1 week ago) - A collection of Ansible roles to manage Bareos installations.
 - [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) ([v2.1.0](https://github.com/adfinis/ansible-role-bareos_dir/releases/tag/v2.1.0), 1 week ago) - 
 
@@ -26,8 +26,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: deprecated `community.postgresql.postgresql_info` parameter `db`](https://github.com/adfinis/ansible-role-bareos_fd/pull/35) on [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) (1 day ago)
-- [feat: add OS support for Univention Corporate Server](https://github.com/adfinis/ansible-role-bareos_dir/pull/27) on [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) (1 day ago)
-- [feat: add OS support for Univention Corporate Server](https://github.com/adfinis/ansible-role-bareos_fd/pull/34) on [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) (1 day ago)
-- [feat: add OS support for Univention Corporate Server](https://github.com/adfinis/ansible-role-bareos_repository/pull/20) on [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) (1 day ago)
+- [fix: deprecated `community.postgresql.postgresql_info` parameter `db`](https://github.com/adfinis/ansible-role-bareos_fd/pull/35) on [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) (2 days ago)
+- [feat: add OS support for Univention Corporate Server](https://github.com/adfinis/ansible-role-bareos_dir/pull/27) on [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) (2 days ago)
+- [feat: add OS support for Univention Corporate Server](https://github.com/adfinis/ansible-role-bareos_fd/pull/34) on [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) (2 days ago)
+- [feat: add OS support for Univention Corporate Server](https://github.com/adfinis/ansible-role-bareos_repository/pull/20) on [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) (2 days ago)
 - [feat: Allow to configure directors heartbeat interval](https://github.com/adfinis/ansible-role-bareos_dir/pull/26) on [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) (2 weeks ago)
