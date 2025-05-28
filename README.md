@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) -  (1 day ago)
-- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) -  (1 day ago)
-- [adfinis/ansible-role-bareos_webui](https://github.com/adfinis/ansible-role-bareos_webui) -  (1 day ago)
-- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) - A collection of Ansible roles to manage Bareos installations. (1 day ago)
-- [adfinis/ansible-role-bareos_sd](https://github.com/adfinis/ansible-role-bareos_sd) -  (1 day ago)
+- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (1 day ago)
+- [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) -  (2 days ago)
+- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) -  (2 days ago)
+- [adfinis/ansible-role-bareos_webui](https://github.com/adfinis/ansible-role-bareos_webui) -  (2 days ago)
+- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) - A collection of Ansible roles to manage Bareos installations. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.19.1](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.19.1), 1 day ago) - A collection of Ansible roles to manage Bareos installations.
-- [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) ([v2.3.0](https://github.com/adfinis/ansible-role-bareos_repository/releases/tag/v2.3.0), 4 days ago) - 
-- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.4.0](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.4.0), 4 days ago) - 
-- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) ([v2.2.0](https://github.com/adfinis/ansible-role-bareos_dir/releases/tag/v2.2.0), 4 days ago) - 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.18](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.18), 6 days ago) - A Helm chart for NetBox
+- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.5.0](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.5.0), 1 day ago) - 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.6](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.6), 1 day ago) - 📈 Helm charts from Adfinis
+- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.19.1](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.19.1), 2 days ago) - A collection of Ansible roles to manage Bareos installations.
+- [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) ([v2.3.0](https://github.com/adfinis/ansible-role-bareos_repository/releases/tag/v2.3.0), 5 days ago) - 
+- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) ([v2.2.0](https://github.com/adfinis/ansible-role-bareos_dir/releases/tag/v2.2.0), 5 days ago) - 
 
 #### 🌱 My latest projects
 
