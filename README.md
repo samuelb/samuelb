@@ -3,18 +3,18 @@
 #### 👷 Check out what I'm currently working on
 
 - [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (2 weeks ago)
-- [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) -  (2 weeks ago)
-- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) -  (2 weeks ago)
-- [adfinis/ansible-role-bareos_webui](https://github.com/adfinis/ansible-role-bareos_webui) -  (2 weeks ago)
-- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) - A collection of Ansible roles to manage Bareos installations. (2 weeks ago)
+- [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) -  (3 weeks ago)
+- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) -  (3 weeks ago)
+- [adfinis/ansible-role-bareos_webui](https://github.com/adfinis/ansible-role-bareos_webui) -  (3 weeks ago)
+- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) - A collection of Ansible roles to manage Bareos installations. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.29](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.29), 1 day ago) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.7](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.7), 2 days ago) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.29](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.29), 2 days ago) - A Helm chart for NetBox
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.7](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.7), 3 days ago) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.20.2](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.20.2), 1 week ago) - A collection of Ansible roles to manage Bareos installations.
 - [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) ([v2.3.1](https://github.com/adfinis/ansible-role-bareos_repository/releases/tag/v2.3.1), 1 week ago) - 
-- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) ([v2.3.0](https://github.com/adfinis/ansible-role-bareos_dir/releases/tag/v2.3.0), 1 week ago) - 
+- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) ([v2.3.0](https://github.com/adfinis/ansible-role-bareos_dir/releases/tag/v2.3.0), 2 weeks ago) - 
 
 #### 🌱 My latest projects
 
