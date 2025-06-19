@@ -10,10 +10,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.32](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.32), 1 day ago) - A Helm chart for NetBox
-- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.20.3](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.20.3), 1 day ago) - A collection of Ansible roles to manage Bareos installations.
-- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) ([v2.4.0](https://github.com/adfinis/ansible-role-bareos_dir/releases/tag/v2.4.0), 1 day ago) - 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([argo-apps-0.27.0](https://github.com/adfinis/helm-charts/releases/tag/argo-apps-0.27.0), 2 days ago) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.33](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.33), today) - A Helm chart for NetBox
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.238.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.238.0), 1 day ago) - 📈 Helm charts from Adfinis
+- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.20.3](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.20.3), 2 days ago) - A collection of Ansible roles to manage Bareos installations.
+- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) ([v2.4.0](https://github.com/adfinis/ansible-role-bareos_dir/releases/tag/v2.4.0), 2 days ago) - 
 - [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) ([v2.3.1](https://github.com/adfinis/ansible-role-bareos_repository/releases/tag/v2.3.1), 2 weeks ago) - 
 
 #### 🌱 My latest projects
@@ -26,8 +26,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: deprecated `community.postgresql.postgresql_info` parameter `db`](https://github.com/adfinis/ansible-role-bareos_fd/pull/35) on [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) (4 weeks ago)
-- [feat: add OS support for Univention Corporate Server](https://github.com/adfinis/ansible-role-bareos_dir/pull/27) on [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) (4 weeks ago)
-- [feat: add OS support for Univention Corporate Server](https://github.com/adfinis/ansible-role-bareos_fd/pull/34) on [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) (4 weeks ago)
-- [feat: add OS support for Univention Corporate Server](https://github.com/adfinis/ansible-role-bareos_repository/pull/20) on [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) (4 weeks ago)
+- [fix: deprecated `community.postgresql.postgresql_info` parameter `db`](https://github.com/adfinis/ansible-role-bareos_fd/pull/35) on [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) (1 month ago)
+- [feat: add OS support for Univention Corporate Server](https://github.com/adfinis/ansible-role-bareos_dir/pull/27) on [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) (1 month ago)
+- [feat: add OS support for Univention Corporate Server](https://github.com/adfinis/ansible-role-bareos_fd/pull/34) on [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) (1 month ago)
+- [feat: add OS support for Univention Corporate Server](https://github.com/adfinis/ansible-role-bareos_repository/pull/20) on [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) (1 month ago)
 - [feat: Allow to configure directors heartbeat interval](https://github.com/adfinis/ansible-role-bareos_dir/pull/26) on [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) (1 month ago)
