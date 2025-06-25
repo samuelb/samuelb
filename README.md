@@ -3,18 +3,18 @@
 #### 👷 Check out what I'm currently working on
 
 - [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (4 weeks ago)
-- [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) -  (4 weeks ago)
-- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) -  (4 weeks ago)
-- [adfinis/ansible-role-bareos_webui](https://github.com/adfinis/ansible-role-bareos_webui) -  (4 weeks ago)
-- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) - A collection of Ansible roles to manage Bareos installations. (4 weeks ago)
+- [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) -  (1 month ago)
+- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) -  (1 month ago)
+- [adfinis/ansible-role-bareos_webui](https://github.com/adfinis/ansible-role-bareos_webui) -  (1 month ago)
+- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) - A collection of Ansible roles to manage Bareos installations. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.36](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.36), 1 day ago) - A Helm chart for NetBox
-- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.20.5](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.20.5), 1 day ago) - A collection of Ansible roles to manage Bareos installations.
-- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) ([v2.5.1](https://github.com/adfinis/ansible-role-bareos_dir/releases/tag/v2.5.1), 1 day ago) - 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.238.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.238.0), 6 days ago) - 📈 Helm charts from Adfinis
-- [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) ([v2.3.1](https://github.com/adfinis/ansible-role-bareos_repository/releases/tag/v2.3.1), 2 weeks ago) - 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.95.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.95.0), 1 day ago) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.36](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.36), 2 days ago) - A Helm chart for NetBox
+- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.20.5](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.20.5), 2 days ago) - A collection of Ansible roles to manage Bareos installations.
+- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) ([v2.5.1](https://github.com/adfinis/ansible-role-bareos_dir/releases/tag/v2.5.1), 2 days ago) - 
+- [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) ([v2.3.1](https://github.com/adfinis/ansible-role-bareos_repository/releases/tag/v2.3.1), 3 weeks ago) - 
 
 #### 🌱 My latest projects
 
