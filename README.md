@@ -10,10 +10,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.40](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.40), 1 day ago) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([tracing-apps-0.31.1](https://github.com/adfinis/helm-charts/releases/tag/tracing-apps-0.31.1), 1 day ago) - 📈 Helm charts from Adfinis
-- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.20.5](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.20.5), 5 days ago) - A collection of Ansible roles to manage Bareos installations.
-- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) ([v2.5.1](https://github.com/adfinis/ansible-role-bareos_dir/releases/tag/v2.5.1), 5 days ago) - 
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.41](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.41), 1 day ago) - A Helm chart for NetBox
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([tracing-apps-0.31.1](https://github.com/adfinis/helm-charts/releases/tag/tracing-apps-0.31.1), 2 days ago) - 📈 Helm charts from Adfinis
+- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.20.5](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.20.5), 6 days ago) - A collection of Ansible roles to manage Bareos installations.
+- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) ([v2.5.1](https://github.com/adfinis/ansible-role-bareos_dir/releases/tag/v2.5.1), 6 days ago) - 
 - [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) ([v2.3.1](https://github.com/adfinis/ansible-role-bareos_repository/releases/tag/v2.3.1), 3 weeks ago) - 
 
 #### 🌱 My latest projects
