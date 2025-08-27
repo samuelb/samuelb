@@ -10,10 +10,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.77](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.77), 3 days ago) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([argo-apps-0.27.2](https://github.com/adfinis/helm-charts/releases/tag/argo-apps-0.27.2), 4 days ago) - 📈 Helm charts from Adfinis
-- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.24.2](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.24.2), 1 week ago) - A collection of Ansible roles to manage Bareos installations.
-- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.8.2](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.8.2), 1 week ago) - 
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.79](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.79), 1 day ago) - A Helm chart for NetBox
+- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v1.24.3](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v1.24.3), 1 day ago) - A collection of Ansible roles to manage Bareos installations.
+- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.8.3](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.8.3), 1 day ago) - 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.99.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.99.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) ([v2.4.0](https://github.com/adfinis/ansible-role-bareos_repository/releases/tag/v2.4.0), 3 weeks ago) - 
 
 #### 🌱 My latest projects
