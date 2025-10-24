@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (4 months ago)
+- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (5 months ago)
 - [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) -  (5 months ago)
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) - A collection of Ansible roles to manage Bareos installations. (5 months ago)
 - [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) -  (5 months ago)
-- [samuelb/ssl-pubkey-fingerprint-exporter](https://github.com/samuelb/ssl-pubkey-fingerprint-exporter) - Prometheus exporter to monitor SSL certificates public key fingerprint. Useful when your applications do SSL public key pinning.  (5 months ago)
+- [samuelb/ssl-pubkey-fingerprint-exporter](https://github.com/samuelb/ssl-pubkey-fingerprint-exporter) - Prometheus exporter to monitor SSL certificates public key fingerprint. Useful when your applications do SSL public key pinning.  (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.105.1](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.105.1), 1 day ago) - 📈 Helm charts from Adfinis
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.105.1](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.105.1), 2 days ago) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.1.2](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.1.2), 2 weeks ago) - A collection of Ansible roles to manage Bareos installations.
 - [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) ([v2.4.1](https://github.com/adfinis/ansible-role-bareos_repository/releases/tag/v2.4.1), 2 weeks ago) - 
 - [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.8.3](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.8.3), 1 month ago) - 
