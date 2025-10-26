@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.105.1](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.105.1), 3 days ago) - 📈 Helm charts from Adfinis
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.105.1](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.105.1), 4 days ago) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.1.2](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.1.2), 2 weeks ago) - A collection of Ansible roles to manage Bareos installations.
 - [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) ([v2.4.1](https://github.com/adfinis/ansible-role-bareos_repository/releases/tag/v2.4.1), 2 weeks ago) - 
 - [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.8.3](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.8.3), 2 months ago) - 
