@@ -30,4 +30,4 @@
 - [feat: add OS support for Univention Corporate Server](https://github.com/adfinis/ansible-role-bareos_dir/pull/27) on [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) (5 months ago)
 - [feat: add OS support for Univention Corporate Server](https://github.com/adfinis/ansible-role-bareos_fd/pull/34) on [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) (5 months ago)
 - [feat: add OS support for Univention Corporate Server](https://github.com/adfinis/ansible-role-bareos_repository/pull/20) on [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) (5 months ago)
-- [feat: Allow to configure directors heartbeat interval](https://github.com/adfinis/ansible-role-bareos_dir/pull/26) on [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) (5 months ago)
+- [feat: Allow to configure directors heartbeat interval](https://github.com/adfinis/ansible-role-bareos_dir/pull/26) on [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) (6 months ago)
