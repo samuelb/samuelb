@@ -10,9 +10,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.259.1](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.259.1), 3 days ago) - 📈 Helm charts from Adfinis
-- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.8.5](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.8.5), 4 days ago) - 
-- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.1.4](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.1.4), 4 days ago) - A collection of Ansible roles to manage Bareos installations.
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.259.1](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.259.1), 4 days ago) - 📈 Helm charts from Adfinis
+- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.8.5](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.8.5), 5 days ago) - 
+- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.1.4](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.1.4), 5 days ago) - A collection of Ansible roles to manage Bareos installations.
 - [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) ([v2.4.1](https://github.com/adfinis/ansible-role-bareos_repository/releases/tag/v2.4.1), 3 months ago) - 
 - [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) ([v2.5.1](https://github.com/adfinis/ansible-role-bareos_dir/releases/tag/v2.5.1), 7 months ago) - 
 
