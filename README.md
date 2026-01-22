@@ -2,17 +2,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (7 months ago)
+- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (8 months ago)
 - [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) -  (8 months ago)
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) - A collection of Ansible roles to manage Bareos installations. (8 months ago)
 - [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) -  (8 months ago)
-- [samuelb/ssl-pubkey-fingerprint-exporter](https://github.com/samuelb/ssl-pubkey-fingerprint-exporter) - Prometheus exporter to monitor SSL certificates public key fingerprint. Useful when your applications do SSL public key pinning.  (8 months ago)
+- [samuelb/ssl-pubkey-fingerprint-exporter](https://github.com/samuelb/ssl-pubkey-fingerprint-exporter) - Prometheus exporter to monitor SSL certificates public key fingerprint. Useful when your applications do SSL public key pinning.  (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.260.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.260.0), 1 day ago) - 📈 Helm charts from Adfinis
-- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.8.5](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.8.5), 6 days ago) - 
-- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.1.4](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.1.4), 6 days ago) - A collection of Ansible roles to manage Bareos installations.
+- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.1.5](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.1.5), 1 day ago) - A collection of Ansible roles to manage Bareos installations.
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.107.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.107.0), 1 day ago) - 📈 Helm charts from Adfinis
+- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.8.5](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.8.5), 1 week ago) - 
 - [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) ([v2.4.1](https://github.com/adfinis/ansible-role-bareos_repository/releases/tag/v2.4.1), 3 months ago) - 
 - [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) ([v2.5.1](https://github.com/adfinis/ansible-role-bareos_dir/releases/tag/v2.5.1), 7 months ago) - 
 
