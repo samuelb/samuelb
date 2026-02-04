@@ -35,7 +35,8 @@ spec:
   uptime: 99.99% # coffee dependent
 ```
 
-## 🛠️ Tech Stack
+<details>
+<summary><h2>🛠️ Tech Stack</h2></summary>
 
 <div>
 
@@ -71,7 +72,7 @@ spec:
 <img src="icons/caddyserver.svg" alt="Caddy" title="Caddy" height="48">
 <img src="icons/apache.svg" alt="Apache" title="Apache" height="48">
 
-### Networking & Firewalls\*\*
+### Networking & Firewalls
 
 <img src="icons/pfsense.svg" alt="pfSense" title="pfSense" height="48">
 <img src="icons/opnsense.svg" alt="OPNsense" title="OPNsense" height="48">
@@ -178,3 +179,5 @@ spec:
 <img src="icons/confluence.svg" alt="Confluence" title="Confluence" height="48">
 
 </div>
+
+</details>
