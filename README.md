@@ -36,12 +36,6 @@ spec:
   philosophy: "Secure by default, reliable by design, simple by choice"
 ```
 
-## 🚀 Featured Projects
-
-- **[spki-fingerprint-exporter](https://github.com/samuelb/spki-fingerprint-exporter)** — Prometheus exporter for monitoring TLS certificate SPKI fingerprints
-- **[somad](https://github.com/samuelb/somad)** — Play and explore SomaFM radio from your terminal, with daemon-backed playback
-- **[whirr](https://github.com/samuelb/whirr)** — A tiny system-tray player for internet radio streams
-
 ## 🛠️ Tech Stack
 
 **Containers & Orchestration** — Kubernetes · Docker · Helm · ArgoCD · K3s
